@@ -3,8 +3,20 @@
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  padding: 6rem;
+  padding: 3rem;
   min-height: 100vh;
+}
+
+.logoFam {
+font-weight: 900;
+font-size: 26.6068px;
+line-height: 120%;
+}
+
+.logoWallet {
+font-weight: 300;
+font-size: 25.0417px;
+line-height: 100%;
 }
 
 .description {
@@ -266,6 +278,36 @@
   .thirteen img {
     filter: invert(1) drop-shadow(0 0 0.3rem #ffffff70);
   }
+}
+.taCenter {
+  text-align: center;
+}
+
+.jingleTextOne {
+  font-style: normal;
+font-weight: 900;
+font-size: 34px;
+line-height: 120%;
+}
+
+.jingleTextTwo {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 120%;
+}
+
+.footerText {
+  color: 
+#AAB8C2;
+  font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 120%;
+}
+
+.white {
+  color: #F5F8FA;
 }
 
 @keyframes rotate {
